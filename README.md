@@ -20,8 +20,9 @@ I am an open source Contributor and an web development addict. I am an enthusias
 <h2 align="center"> 🔭 Checkout my online battleground's Stats</h2>
 
 <p align="center">
-    <a href="https://auth.geeksforgeeks.org/user/tpbc1717/saved-articles/">Geeks for Geeks</a> 
-    <a href="https://www.hackerrank.com/tpbc1717">Hackerrank</a>
+    <a href="https://auth.geeksforgeeks.org/user/tpbc1717/saved-articles/">--> Geeks for Geeks <--</a> 
+        <br>
+    <a href="https://www.hackerrank.com/tpbc1717">--> Hackerrank <--</a>
     
  </p>
  

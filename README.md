@@ -26,8 +26,8 @@ I am an open source Contributor and an web development addict. I am an enthusias
     
  </p>
         
-        <center> <img src="https://media.giphy.com/media/l0HlMmCTZsADKuIWQ/giphy.gif" height =300 width =300> </center>
- <center> <img src="https://media.giphy.com/media/WGnkC6clNvwBi/giphy.gif" height =300 width =300> </center>
+      
+ <center> <img src="https://media.giphy.com/media/3d4RmvOnRoYrnRBcFS/giphy.gif" height =400 width =300> </center>
  
 
 

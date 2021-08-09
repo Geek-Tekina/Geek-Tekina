@@ -25,7 +25,7 @@ I am an open source Contributor and an web development addict. I am an enthusias
     <a href="https://www.hackerrank.com/tpbc1717">--> Hackerrank <--</a>
     
  </p>
-        <center> <img src="https://media.giphy.com/media/l0HlMmCTZsADKuIWQ/giphy.gif"> </center>
+        <center> <img src="https://media.giphy.com/media/l0HlMmCTZsADKuIWQ/giphy.gif" height =100 width =100> </center>
  
  
 

@@ -22,7 +22,7 @@ I am an open source Contributor and an web development addict. I am an enthusias
 <p align="center">
 <h2>
     
-        Geeks For Geeks --> <a href ="https://auth.geeksforgeeks.org/user/tpbc1717#">https://auth.geeksforgeeks.org/user/tpbc1717#</a>
+        Geeks For Geeks --> <a href ="https://auth.geeksforgeeks.org/user/tpbc1717">https://auth.geeksforgeeks.org/user/tpbc1717#</a>
         HackerRank --> <a href ="https://www.hackerrank.com/tpbc1717">https://www.hackerrank.com/tpbc1717</a>
     </h2>      
  </p>

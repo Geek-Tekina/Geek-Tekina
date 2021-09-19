@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Aniket Sharma </h1>
 <p align="center">
-    <a href="https://github.com/Geek-Tekina"><img src="web_character.gif "/></a> 
+    <a href="https://github.com/Geek-Tekina"><img src="coding.gif "/></a> 
 </p>
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">

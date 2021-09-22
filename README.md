@@ -4,7 +4,7 @@
 </p>
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
-  <samp>I am a First year student at Bipin Tripathi Kumaon Institute of Technology , Dwarahat , currently doing my Bachelors in Computer Engineering. 
+  <samp>I am a First year student at Bipin Tripathi Kumaon Institute of Technology , Dwarahat , currently doing my Bachelors in Computer Science Engineering. 
 I am an open source Contributor and an web development addict. I am an enthusiastic learner.
 </samp><br>
 </p>

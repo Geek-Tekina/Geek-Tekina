@@ -34,8 +34,9 @@
    <h3 align="center">⚡Github Stats</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Geek-Tekina&show_icons=true&hide=stars,issues&count_private=true&theme=dark" alt="Geek-Tekina" />
+  <img src="https://media.giphy.com/media/3d4RmvOnRoYrnRBcFS/giphy.gif" height =400 width =300>  
 </p>
-  <center> <img src="https://media.giphy.com/media/3d4RmvOnRoYrnRBcFS/giphy.gif" height =400 width =300> </center>    
+ 
       
  
  

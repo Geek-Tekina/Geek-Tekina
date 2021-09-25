@@ -1,7 +1,7 @@
-<style>
- *{padding : 0px 20px;
- }
- </style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap" rel="stylesheet">
+ <body font-family: 'Orbitron', sans-serif>
 <h1 align="center"> Hi 👋, I'm Aniket Sharma </h1>
 
 <h2 align="center"> 👨‍💻 Who am I?</h2>
@@ -47,7 +47,7 @@
    
 </p>
  
-     
+   </body>  
  
  
 

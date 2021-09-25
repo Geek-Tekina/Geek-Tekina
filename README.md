@@ -1,3 +1,7 @@
+<style>
+ *{padding : 0px 20px;
+ }
+ </style>
 <h1 align="center"> Hi 👋, I'm Aniket Sharma </h1>
 
 <h2 align="center"> 👨‍💻 Who am I?</h2>

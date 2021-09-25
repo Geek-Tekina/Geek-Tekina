@@ -10,12 +10,15 @@ I am an open source Contributor and an web development addict. I am an enthusias
 </p>
 
 
-<h2 align="center">Reach out to me on </h2>
-
-<div align="center">
-
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Geek-Tekina) 
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aniket-sharma-43a517200/) 
+<h2 align="center">Connect with me</h2>
+<div align="center">  
+  <a href="https://github.com/Geek-Tekina" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+ 
+  <a href="https://www.linkedin.com/in/aniket-sharma-43a517200" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
 
 <h2 align="center"> 🔭 Checkout my online battleground's Stats</h2>
 

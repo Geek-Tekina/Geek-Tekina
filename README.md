@@ -1,13 +1,11 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap" rel="stylesheet">
- <body font-family: 'Orbitron', sans-serif>
+
 <h1 align="center"> Hi 👋, I'm Aniket Sharma </h1>
 
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
  <img src="Screenshot (136).png" height=500 width=1200>
 </p>
+<br><br>
 <h3 align=center>Languages I code in </h3>
 <p align=center>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" padding=15px>
@@ -16,13 +14,14 @@
 <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
  </p>
+ <br><br>
 <h3 align="center">⚡⚡Checkout my online battleground's Stats⚡⚡</h3>
 
 <p align="center">
     <a href="https://auth.geeksforgeeks.org/user/tpbc1717/saved-articles/"><b>GeeksforGeeks</b></a> 
     <a href="https://www.hackerrank.com/tpbc1717"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
     <a href="https://leetcode.com/Vespertine_Tekina/" ><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>  
-   
+  <br><br> 
  </p>
  <h3 align="center">Connect With Me.</h2>
 <div align="center">  
@@ -40,13 +39,13 @@
  <a href="mailto:tpbc1717@gmal.com" target="_blank">
     <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
   </a>
- 
+ <br><br>
    <h3 align="center">⚡Github Stats</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Geek-Tekina&show_icons=true&hide=stars,issues&count_private=true&theme=dark" alt="Geek-Tekina" />
    
-</p>
- 
+</p><center>
+  <img src="https://media.giphy.com/media/3d4RmvOnRoYrnRBcFS/giphy.gif" height =400 width =300>  
    </body>  
  
  

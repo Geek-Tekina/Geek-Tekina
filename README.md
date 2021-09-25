@@ -25,6 +25,10 @@ I am an open source Contributor and an web development addict. I am an enthusias
     <a href="https://www.hackerrank.com/tpbc1717">--> Hackerrank <--</a>
     
  </p>
+        <h3 align="center">⚡Github Stats</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Geek-Tekina&show_icons=true&hide=stars,issues&count_private=true&theme=dark" alt="Priyanshi-Raj" />
+</p>
   <center> <img src="https://media.giphy.com/media/3d4RmvOnRoYrnRBcFS/giphy.gif" height =400 width =300> </center>    
       
  

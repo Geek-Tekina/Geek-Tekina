@@ -20,10 +20,11 @@ I am an open source Contributor and an web development addict. I am an enthusias
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
   
-<h2 align="center"> 🔭 Checkout my online battleground's Stats</h2>
+<h2 align="center">⚡⚡Checkout my online battleground's Stats ⚡⚡</h2>
 
 <p align="center">
     <a href="https://auth.geeksforgeeks.org/user/tpbc1717/saved-articles/"><b>GeeksforGeeks</b></a> 
+    <a href="https://www.hackerrank.com/tpbc1717"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
         
    
  </p>

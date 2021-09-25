@@ -24,7 +24,7 @@
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
  
- <a href="" target="_blank">
+ <a href="https://discord.gg/qnpqeGCY" target="_blank">
     <img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
  <a href="mailto:tpbc1717@gmal.com" target="_blank">
@@ -34,10 +34,10 @@
    <h3 align="center">⚡Github Stats</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Geek-Tekina&show_icons=true&hide=stars,issues&count_private=true&theme=dark" alt="Geek-Tekina" />
-  <img src="https://media.giphy.com/media/3d4RmvOnRoYrnRBcFS/giphy.gif" height =200 width =100>  
+   
 </p>
  
-      
+     
  
  
 

@@ -19,6 +19,7 @@ I am an open source Contributor and an web development addict. I am an enthusias
   <a href="https://www.linkedin.com/in/aniket-sharma-43a517200" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
+    [![Gmail Badge](https://img.shields.io/badge/-tpbc1717@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:tpbc1717@gmail.com)
 
 <h2 align="center"> 🔭 Checkout my online battleground's Stats</h2>
 

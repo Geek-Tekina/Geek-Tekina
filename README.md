@@ -25,12 +25,11 @@ I am an open source Contributor and an web development addict. I am an enthusias
 <p align="center">
     <a href="https://auth.geeksforgeeks.org/user/tpbc1717/saved-articles/"><b>GeeksforGeeks</b></a> 
         
-    <a href="https://www.hackerrank.com/tpbc1717"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="margin-bottom: 5px;" /></a>
-     <a href="https://leetcode.com/Vespertine_Tekina/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" style="margin-bottom: 5px;" /></a>
+   
  </p>
         <h3 align="center">⚡Github Stats</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Geek-Tekina&show_icons=true&hide=stars,issues&count_private=true&theme=dark" alt="Priyanshi-Raj" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Geek-Tekina&show_icons=true&hide=stars,issues&count_private=true&theme=dark" alt="Geek-Tekina" />
 </p>
   <center> <img src="https://media.giphy.com/media/3d4RmvOnRoYrnRBcFS/giphy.gif" height =400 width =300> </center>    
       

@@ -27,7 +27,9 @@
  <a href="" target="_blank">
     <img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
- 
+ <a href="mailto:tpbc1717@gmal.com" target="_blank">
+    <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
+  </a>
  
    <h3 align="center">⚡Github Stats</h3>
 <p align="center">

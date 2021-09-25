@@ -1,12 +1,8 @@
 <h1 align="center"> Hi 👋, I'm Aniket Sharma </h1>
-<p align="center">
-    <a href="https://github.com/Geek-Tekina"><img height=400 width=600 src="char.gif "/></a> 
-</p>
+
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
-  <samp>I am a First year student at Bipin Tripathi Kumaon Institute of Technology , Dwarahat , currently doing my Bachelors in Computer Science Engineering. 
-I am an open source Contributor and an web development addict. I am an enthusiastic learner.
-</samp><br>
+ <img src="Screenshot (136).png">
 </p>
 
 

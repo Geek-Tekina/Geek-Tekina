@@ -2,7 +2,7 @@
 
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
- <img src="Screenshot (136).png">
+ <img src="Screenshot (136).png" height=500 width=800>
 </p>
 
 

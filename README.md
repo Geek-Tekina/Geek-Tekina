@@ -49,9 +49,10 @@
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Geek-Tekina&hide=php&theme=radical">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geek-Tekina&hide=jupyter Notebook,php&theme=radical" height="195" width="310" />
-  <br><br>
+  
 
 </a>
+ <br><br>
 </p><center>
   <img src="https://media.giphy.com/media/3d4RmvOnRoYrnRBcFS/giphy.gif" height =400 width =300>  
    </body>  

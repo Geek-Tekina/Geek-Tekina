@@ -52,8 +52,9 @@
   
 
 </a>
- <br><br>
+
 </p><center>
+  <br><br>
   <img src="https://media.giphy.com/media/3d4RmvOnRoYrnRBcFS/giphy.gif" height =400 width =300>  
    </body>  
  

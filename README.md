@@ -54,12 +54,7 @@
 </a>
 
 </p><center>
- <div align="center">
-     
-     
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=Geek-Tekina&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
-</div>
- <div align="center">
+
     
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Geek-Tekina)  
 </div>

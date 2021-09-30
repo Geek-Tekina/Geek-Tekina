@@ -40,10 +40,18 @@
     <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
   </a>
  <br><br>
-   <h3 align="center">⚡Github Stats</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Geek-Tekina&show_icons=true&hide=stars,issues&count_private=true&theme=dark" alt="Geek-Tekina" />
    
+
+<div>
+<a href="https://newgithub-readme-stats.vercel.app/api?username=Geek-Tekina&show_icons=true&count_private=true&theme=radical">
+  <img  align="left" src="https://newgithub-readme-stats.vercel.app/api?username=kamleshjoshi8102&show_icons=true&count_private=true&theme=radical"  />
+</a>
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Geek-Tekina&hide=php&theme=radical">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=jupyter Notebook,php&theme=radical" height="195" width="310" />
+  
+
+</a>
 </p><center>
   <img src="https://media.giphy.com/media/3d4RmvOnRoYrnRBcFS/giphy.gif" height =400 width =300>  
    </body>  

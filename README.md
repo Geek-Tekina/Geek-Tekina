@@ -20,7 +20,10 @@
 <p align="center">
     <a href="https://auth.geeksforgeeks.org/user/tpbc1717/saved-articles/"><b>GeeksforGeeks</b></a> 
     <a href="https://www.hackerrank.com/tpbc1717"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-    <a href="https://leetcode.com/Vespertine_Tekina/" ><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>  
+    <a href="https://leetcode.com/Vespertine_Tekina/" ><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+  </a> 
+ <a href="https://www.codechef.com/users/geek_tekina" ><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white">
+  </a> 
   <br><br> 
  </p>
  <h3 align="center">Connect With Me.</h2>

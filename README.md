@@ -29,6 +29,8 @@
  <p align="center">
  <h3 align="center">⚡⚡CP Ratings⚡⚡</h3>
  <img src ="https://cp-logo.vercel.app/codechef/geek_tekina">
+ <img src ="https://cp-logo.vercel.app/codeforces/ooh_my_code">
+ <img src ="https://cp-logo.vercel.app/leetcode/Vespertine_Tekina">
 
  
  

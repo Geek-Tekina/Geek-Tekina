@@ -50,7 +50,7 @@
   <img  align="left" src="https://newgithub-readme-stats.vercel.app/api?username=Geek-Tekina&show_icons=true&count_private=true&theme=radical"  />
 </a>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Geek-Tekina&hide=php&theme=radical">
+
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geek-Tekina&hide=jupyter Notebook,php&theme=radical" height="195" width="310" />
   
 

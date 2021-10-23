@@ -26,6 +26,13 @@
   </a> 
   <br><br> 
  </p>
+ <p align="center">
+ <h3 align="center">⚡⚡CP Ratings⚡⚡</h3>
+ [![Badge](https://cp-logo.vercel.app/codechef/geek_tekina)]
+
+ 
+ 
+ </p>
  <h3 align="center">Connect With Me.</h2>
 <div align="center">  
   <a href="https://github.com/Geek-Tekina" target="_blank">

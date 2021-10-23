@@ -28,7 +28,7 @@
  </p>
  <p align="center">
  <h3 align="center">⚡⚡CP Ratings⚡⚡</h3>
- [![Badge](https://cp-logo.vercel.app/codechef/geek_tekina)]
+ <img src ="https://cp-logo.vercel.app/codechef/geek_tekina">
 
  
  

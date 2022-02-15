@@ -33,7 +33,7 @@
 </a>
 
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geek-Tekina&hide=jupyter Notebook,php&theme=radical" height="195" width="310" />
+  
   
 
 </a>

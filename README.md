@@ -29,7 +29,7 @@
 
 <div>
 <a href="https://newgithub-readme-stats.vercel.app/api?username=Geek-Tekina&show_icons=true&count_private=true&theme=radical">
-  <img  align="left" src="https://newgithub-readme-stats.vercel.app/api?username=Geek-Tekina&show_icons=true&count_private=true&theme=radical"  />
+  <img   src="https://newgithub-readme-stats.vercel.app/api?username=Geek-Tekina&show_icons=true&count_private=true&theme=radical"  />
 </a>
 
 

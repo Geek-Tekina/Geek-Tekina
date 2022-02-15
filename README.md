@@ -6,26 +6,7 @@
  <img src="Screenshot (136).png" height=500 width=1200>
 </p>
 <br><br>
-<h3 align=center>Languages I code in </h3>
-<p align=center>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" padding=15px>
- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" >
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
-<img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
- </p>
- <br><br>
-<h3 align="center">⚡⚡Checkout my online battleground's Stats⚡⚡</h3>
 
-<p align="center">
-    <a href="https://auth.geeksforgeeks.org/user/tpbc1717/saved-articles/"><b>GeeksforGeeks</b></a> 
-    <a href="https://www.hackerrank.com/tpbc1717"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-    <a href="https://leetcode.com/Vespertine_Tekina/" ><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-  </a> 
- <a href="https://www.codechef.com/users/geek_tekina" ><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white">
-  </a> 
-  <br><br> 
- </p>
  
  <h3 align="center">Connect With Me.</h2>
 <div align="center">  

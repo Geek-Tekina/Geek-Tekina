@@ -41,7 +41,6 @@
 </p><center>
 
     
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Geek-Tekina)  
 </div>
   <br><br>
   <img src="https://media.giphy.com/media/3d4RmvOnRoYrnRBcFS/giphy.gif" height =400 width =300 margin=50>  

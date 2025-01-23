@@ -1,5 +1,5 @@
 
-<h1 align="center"> Aloha !Namaste! 👋, I'm Aniket Sharma </h1>
+<h1 align="center"> Aloha! Namaste! 👋, I'm Aniket Sharma </h1>
 
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
@@ -17,10 +17,7 @@
   <a href="https://www.linkedin.com/in/aniket-sharma-43a517200" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
- 
- <a href="https://discord.gg/qnpqeGCY" target="_blank">
-    <img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
+
  <a href="mailto:tpbc1717@gmal.com" target="_blank">
     <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
   </a>

@@ -4,13 +4,47 @@
 </p>
 
 
-<h1 align="center">Aloha! Namaste! 👋, I'm Aniket Sharma</h1>
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #FFA500;">
+  𝓝𝓪𝓶𝓪𝓼𝓽𝓮 👋 & <i>𝕂𝕠𝕟𝕟𝕚𝕔𝕙𝕚𝕨𝕒</i>, I'm <span style="font-size:1.5em;">𝓐𝓷𝓲𝓴𝓮𝓽 𝓢𝓱𝓪𝓻𝓶𝓪</span>
+</h1>
 
-<h2 align="center">👨‍💻 Who am I?</h2>
-<p align="center">
+<!-- <h2 align="center">👨‍💻 Who am I?</h2>
+ <p align="center">
   <img src="Screenshot (136).png" height=500 width=1200>
-</p>
-<br><br>
+</p> -->
+
+### Backend and Databases
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=graphql" alt="Apollo GraphQL" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40" style="margin-right: 10px;" />
+</div>
+
+## Frontend
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40" style="margin-right: 10px;" />
+</div>
+
+## DevOps & Cloud Champion
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" style="margin-right: 10px;" />
+</div>
+
+## Code Sorcery
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40" style="margin-right: 10px;" />
+</div>
 
 <h3 align="center">"Just like Naruto, I'm on a journey to grow stronger every day!"</h3>
 <p align="center">
